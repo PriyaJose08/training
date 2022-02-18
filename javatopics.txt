@@ -1,0 +1,35 @@
+rations and Access Control 
+
+o Identifiers & JavaBeans 
+
+o Legal Identifiers 
+
+o Sun's Java Code Conventions 
+
+o JavaBeans Standards 
+
+o Declare Classes 
+
+o Source File Declaration Rules
+
+ Source File Declaration Rules 
+
+o Class Declarations and Modifiers 
+
+o Concrete Subclass 
+
+o Declaring an Interface 
+
+o Declaring Interface Constants 
+
+o Declare Class Members 
+
+o Access Modifiers 
+
+o Nonaccess Member Modifiers 
+
+o Constructor Declarations 
+
+o Variable Declarations 
+
+o Declaring Enums
